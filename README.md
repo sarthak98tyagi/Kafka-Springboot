@@ -1,2 +1,2 @@
 # kafka
-Kafka in Spring Boot
+Kafka in Spring Boot Application
